@@ -1,0 +1,23 @@
+
+
+h1 {
+  font-family: "Didot";
+}
+
+h2 {
+  font-family: "Didot";
+}
+
+p {
+  font-family: "Didot";
+  line-height: 30px;
+}
+
+#box {
+  margin: 20px auto;
+  width: 750px;
+}
+
+body {
+    background-color: whitesmoke;
+}
