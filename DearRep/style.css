@@ -1,17 +1,21 @@
-
+body {
+    background-color: #FFFFF0;
+    font-family: 'Cutive Mono', monospace;
+}
 
 h1 {
-  font-family: "Hoefler Text";
+  font-weight: bold;
+  margin: 50px auto;
+  font-size: 32px
 }
 
 h2 {
-  font-family: "Hoefler Text";
+  font-size: 20px
 }
 
 p {
-  font-family: "Hoefler Text";
   line-height: 30px;
-  display: inline-block;
+  font-size: 18px;
 }
 
 #box {
@@ -19,15 +23,25 @@ p {
   width: 750px;
 }
 
-body {
-    background-color: #FFFFF0;
-}
-
-span {
-  color: #FFD700;
-}
-
 textarea {
   height: 100%;
-  width: 100%;
+  width: 50%;
+  font-size: 18px;
+  font-family: 'Cutive Mono', monospace;
+  display: inline-block;
+  margin: 20px 20px;
 }
+
+select {
+  height: 100%;
+  width: 25%;
+  font-size: 18px;
+  font-family: 'Cutive Mono', monospace;
+}
+
+input {
+    height: 100%;
+    width: 25%;
+    font-size: 18px;
+    font-family: 'Cutive Mono', monospace;
+  }
