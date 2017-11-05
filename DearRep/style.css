@@ -1,15 +1,15 @@
 
 
 h1 {
-  font-family: "Didot";
+  font-family: "Hoefler Text";
 }
 
 h2 {
-  font-family: "Didot";
+  font-family: "Hoefler Text";
 }
 
 p {
-  font-family: "Didot";
+  font-family: "Hoefler Text";
   line-height: 30px;
 }
 
@@ -19,5 +19,9 @@ p {
 }
 
 body {
-    background-color: whitesmoke;
+    background-color: #FFFFF0;
+}
+
+span {
+  color: #FFD700;
 }
