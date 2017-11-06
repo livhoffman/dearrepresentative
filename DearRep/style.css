@@ -1,5 +1,5 @@
 body {
-  background-color: #FFFFF0;
+  background-color: #FFFAF0;
   font-family: 'Cutive Mono', monospace;
 }
 
@@ -32,7 +32,7 @@ textarea {
   display: inline-block;
   position: relative;
   margin-top: 10px;
-  background-color: #FFFFF0;
+  background-color: #FFFAF0;
   border: 0px;
   border-bottom: 1px solid black;
   resize: none;
@@ -43,7 +43,7 @@ select {
   width: 25%;
   font-size: 18px;
   font-family: 'Cutive Mono', monospace;
-  background-color: #FFFFF0;
+  background-color: #FFFAF0;
 }
 
 input {
@@ -60,6 +60,11 @@ input {
 #button {
   font-size: 18px;
   font-family: 'Cutive Mono', monospace;
-  background-color: #FFFFF0;
+  background-color: #FFFAF0;
   padding:
+}
+
+#letter {
+  display: block;
+  margin-top: 100px;
 }
